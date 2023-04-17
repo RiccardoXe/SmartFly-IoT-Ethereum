@@ -1,0 +1,12 @@
+{
+    "provider": "http://127.0.0.1:7200",
+    "http_service_port":"8081",
+    "milliseconds_to_mine_block": 15000,
+    "blocks_to_wait_before_SM_call": 15,
+    "gasLimit": "30000000",  
+    "confirmationBlocks": 0,
+    "_scenarios_list": ["untrusted", "semiTrusted", "partiallyTrusted"],
+    "scenario": "untrusted",
+    "smartfliesUntrustedJsonPath": "../../build/contracts/SmartFliesEndPaper.json",
+    "smartfliesPartiallyTrustedJsonPath":"../../build/contracts/SmartFliesPartiallyTrusted.json"
+}

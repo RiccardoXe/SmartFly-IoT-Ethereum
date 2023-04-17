@@ -1,0 +1,12 @@
+SMART CONTACT BEST PRACTICES:
+1-Memory organization: alignment
+2-Reduce number of SSTORE operations maximizing the 256 bit write operation (put write in same memory area closer in code)
+3-Efficient data structures: maps
+4-Avoid calling functions in loop (reduce memory allocation)
+5-Reduce use of persistent memory areas (storage, logs - to write persistent data)
+7-Uncheck arithmetics (overflows-underflow are automatically check in recent pragmas, disable them to reduce costs if needed)
+
+IMPROVEMENT SUGGESTIONS:
+1- Update to latest pragma.
+2- Find a better way to encode and decode input header (this can save a ton of gas and memory).
+3- Make the provers persistently store the MMR and update form specific point (now only stored in ram and sync with chain data at start)

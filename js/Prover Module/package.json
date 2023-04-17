@@ -1,0 +1,22 @@
+{
+  "name": "prover-module",
+  "version": "1.0.0",
+  "description": "Module to provide proving service in SmartFlies",
+  "main": "restServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Riccardo Xefraj",
+  "license": "ISC",
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "eth-object": "^1.0.3",
+    "eth-util-lite": "^1.0.1",
+    "express": "^4.17.1",
+    "isomorphic-rpc": "^1.2.2",
+    "merkle-patricia-tree": "^4.2.2",
+    "rlp": "^2.2.6",
+    "web3": "^1.7.3",
+    "seedrandom":"^3.0.5"
+  }
+}

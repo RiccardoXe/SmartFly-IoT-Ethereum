@@ -1,0 +1,13 @@
+build/
+contracts/SmartFliesTrusted.sol
+data/GasCosts/
+data/GasCosts2/
+js/Prover Module/DifficultyMMRLevelDB.js
+profiles/
+test/
+Testing/
+js/Prover Module/node_modules/
+js/Prover Module/package-lock.json
+node_modules/*
+node_modules/*/*
+DifficultyNode_old.js
