@@ -1,8 +1,9 @@
 # SmartFly-EthereumIoTVerification
 ## Related Publications
-P. Perazzo and R. Xefraj, "SmartFly: Fork-Free Super-Light Ethereum Classic Clients for Internet of Things," in IEEE Internet of Things Journal, vol. 11, no. 9, pp. 15348-15358, 1 May1, 2024, doi: 10.1109/JIOT.2024.3350333.
-keywords: {Blockchains;Internet of Things;Smart contracts;Bandwidth;Peer-to-peer computing;Security;Probabilistic logic;Blockchain;ethereum classic (ETC);FlyClient;Internet of Things (IoT);Merkle mountain range (MMR);smart contracts},
 
+> P. Perazzo and R. Xefraj, "SmartFly: Fork-Free Super-Light Ethereum Classic Clients for Internet of Things," in IEEE Internet of Things Journal, vol. 11, no. 9, pp. 15348-15358, 1 May1, 2024, doi: 10.1109/JIOT.2024.3350333.
+keywords: {Blockchains;Internet of Things;Smart contracts;Bandwidth;Peer-to-peer computing;Security;Probabilistic logic;Blockchain;ethereum classic (ETC);FlyClient;Internet of Things (IoT);Merkle mountain range (MMR);smart contracts},
+https://ieeexplore.ieee.org/abstract/document/10388027
 
 ## Introduction
 
